@@ -1,0 +1,10 @@
+C:\Users\Mary\Desktop\c#\imcEjer2\bin\Debug\imcEjer2.exe.config
+C:\Users\Mary\Desktop\c#\imcEjer2\bin\Debug\imcEjer2.exe
+C:\Users\Mary\Desktop\c#\imcEjer2\bin\Debug\imcEjer2.pdb
+C:\Users\Mary\Desktop\c#\imcEjer2\obj\Debug\imcEjer2.csproj.AssemblyReference.cache
+C:\Users\Mary\Desktop\c#\imcEjer2\obj\Debug\ProyectoIMC.Form1.resources
+C:\Users\Mary\Desktop\c#\imcEjer2\obj\Debug\imcEjer2.Properties.Resources.resources
+C:\Users\Mary\Desktop\c#\imcEjer2\obj\Debug\imcEjer2.csproj.GenerateResource.cache
+C:\Users\Mary\Desktop\c#\imcEjer2\obj\Debug\imcEjer2.csproj.CoreCompileInputs.cache
+C:\Users\Mary\Desktop\c#\imcEjer2\obj\Debug\imcEjer2.exe
+C:\Users\Mary\Desktop\c#\imcEjer2\obj\Debug\imcEjer2.pdb
