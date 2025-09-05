@@ -1,0 +1,10 @@
+C:\Users\Mary\Desktop\c#\GestorTareas\bin\Debug\GestorTareas.exe.config
+C:\Users\Mary\Desktop\c#\GestorTareas\bin\Debug\GestorTareas.exe
+C:\Users\Mary\Desktop\c#\GestorTareas\bin\Debug\GestorTareas.pdb
+C:\Users\Mary\Desktop\c#\GestorTareas\obj\Debug\GestorTareas.csproj.AssemblyReference.cache
+C:\Users\Mary\Desktop\c#\GestorTareas\obj\Debug\GestorTareas.Form1.resources
+C:\Users\Mary\Desktop\c#\GestorTareas\obj\Debug\GestorTareas.Properties.Resources.resources
+C:\Users\Mary\Desktop\c#\GestorTareas\obj\Debug\GestorTareas.csproj.GenerateResource.cache
+C:\Users\Mary\Desktop\c#\GestorTareas\obj\Debug\GestorTareas.csproj.CoreCompileInputs.cache
+C:\Users\Mary\Desktop\c#\GestorTareas\obj\Debug\GestorTareas.exe
+C:\Users\Mary\Desktop\c#\GestorTareas\obj\Debug\GestorTareas.pdb
